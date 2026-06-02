@@ -9,7 +9,6 @@ A beautiful, interactive script that utilizes Python's built-in `turtle` graphic
 * **Screen Persistent:** Keeps the drawing window open until manually dismissed by the user.
   
 ## Requirements & Installation
-
 To run this project locally, you just need Python installed on your system.
 
 1. **Clone the repository:**

@@ -2,9 +2,8 @@
 
 A beautiful, interactive script that utilizes Python's built-in `turtle` graphics library to procedurally draw a geometric flower pattern. This project demonstrates loops, coordinate manipulation, and canvas control in Python.
 
-
 ##  Features
-* **Procedural Generation:** Automatically calculates angles based on the number of petals.
+* **Procedural Generation:** Automatically calculates angles based on the number of petals
 * **Smooth Animations:** Uses custom speed configurations for rendering the floral shape.
 * **Screen Persistent:** Keeps the drawing window open until manually dismissed by the user.
   

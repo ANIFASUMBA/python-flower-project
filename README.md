@@ -10,6 +10,7 @@ A beautiful, interactive script that utilizes Python's built-in `turtle` graphic
 ## Requirements & Installation
 
 To run this project locally, you just need Python installed on your system.
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ANIFASUMBA/python-flower-project.git](https://github.com/ANIFASUMBA/python-flower-project.git)
